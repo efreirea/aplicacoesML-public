@@ -1,9 +1,11 @@
-# Repositório do trabalho desenvolvido na disciplina "Aplicações de Aprendizado de Máquina e de Mineração de Dados";
+# Repositório do trabalho desenvolvido na disciplina "Aplicações de Aprendizado de Máquina e de Mineração de Dados"
 
-Professores: Leandro Mundim e André Carvalho;
+Tema: Sistema de recomendação de modelos de previsão de séries temporais aplicados a ações do índice S&P 500
 
-Alunos: Eric Antunes e Moisés Santos;
+Professores: Leandro Mundim e André Carvalho
 
-Instituto de Ciências Matemáticas e de Computação (ICMC);
+Alunos: Eric Antunes e Moisés Santos
 
-Universidade de São Paulo;
+Instituto de Ciências Matemáticas e de Computação (ICMC)
+
+Universidade de São Paulo
